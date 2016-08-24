@@ -7,5 +7,7 @@
    * ln -s $DRACULA_THEME/zsh/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme
    * go to ~/.zshrc and set ZSH_THEME="dracula"
    * change %c to %d in theme file, so that prompt will show full path.
+4. cat /etc/shells
+5. chsh -s $ZSH_PATH
 
 
